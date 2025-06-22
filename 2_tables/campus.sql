@@ -1,0 +1,5 @@
+CREATE TABLE Campus (
+    CampusID INT PRIMARY KEY,
+    Name VARCHAR(100) NOT NULL,
+    Location VARCHAR(100)
+);
